@@ -12,16 +12,16 @@ this.code = "https://github.com/natrixdev/instagram-botter/blob/main/main.py"
 from instabot import likes, views, followers
 
 os.system("title Instagram followers, likes and views botter.")
-os.color("a")
+os.color("a")q
 
 def __main__:
- account_name=input("Account name ? ")
+ account_name=input("buggy_peace_allan ")
    if account_name=="":
      print('please input a real name')
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("200");
    choose=input('> ')
        if choose=="1":
           url=input('Paste your instagram post url (your account need to be public')
